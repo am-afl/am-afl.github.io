@@ -29,10 +29,7 @@ export function Hero() {
         >
           <div className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
           <span className="text-xs font-mono text-zinc-300 tracking-wide">
-            Sharif University of Technology • Top 0.1% National Rank
-          </span>
-          <span className="text-xs text-sky-400 font-semibold flex items-center">
-            2026 Ready
+            Sharif University of Technology
           </span>
         </motion.div>
 
